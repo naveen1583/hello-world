@@ -4,18 +4,17 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-<<<<<<< HEAD
-    <label for="Name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Email correct" name="Harish pappu" id="email" required>
-=======
+    <label for="Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="email" required>
+    <br>
+	
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="Enter email" id="email" required>
->>>>>>> 3d0aea0e46a3c49365b9e06590e849084d844c05
-<br>
+    <br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-<br>
+    <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
