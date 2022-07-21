@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="Naveen"><b>My name is Naveen Reddy</b></label>
+    <label for="Naveen"><b>harmit barot full time amazon</b></label>
     <input type="text" placeholder="Enter your damn Name and number" name="Name" id="email" required>
     <br>
 	
